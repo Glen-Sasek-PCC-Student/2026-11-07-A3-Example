@@ -1,5 +1,5 @@
 Petroleum Engineering
-110000
+clear
 y
 Chemical Engineering
 65000
